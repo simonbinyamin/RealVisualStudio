@@ -1,0 +1,32 @@
+{
+    "name": "visualstudioblue",
+    "displayName": "Real visual studio",
+    "description": "visual studio 2019 blue",
+    "publisher": "realvisualstudio19",
+    "version": "0.0.3",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "icon": "icons/head.png",
+    "author": {
+        "name":"Simon Binyamin",
+        "email": "simon.m.binyamin@gmail.com",
+        "url": "https://www.onprodcs.com/"
+    },
+    "repository": {
+        "url": "https://github.com/simonbinyamin/RealVisualStudio.git",
+        "type": "git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Real Visual Studio",
+                "uiTheme": "vs",
+                "path": "./themes/vs2019blue.json"
+            }
+        ]
+    }
+}
