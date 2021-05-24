@@ -4,27 +4,8 @@
 
 ![alt text](icons/visualstudio.png)
 
-## Optional
-Download "vscode-icons"
+## MIT License
 ```
-in your settings:
-{
-    "workbench.sideBar.location": "right",
-    "workbench.iconTheme": "vscode-icons",
-    "window.titleBarStyle": "custom",
-    "workbench.tree.indent": 25,
-    "workbench.view.alwaysShowHeaderActions": true,
-    "editor.trimAutoWhitespace": false,  
-    "editor.renderWhitespace": "all"
-}
-```
-## Developer
-
-Name: Simon Binyamin
-Email: simon.m.binyamin@gmail.com
-
-# MIT License
-
 Copyright (c) .NET Foundation and Contributors
 All Rights Reserved
 
@@ -45,3 +26,23 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
+
+## Optional
+Download "vscode-icons"
+```
+in your settings:
+{
+    "workbench.sideBar.location": "right",
+    "workbench.iconTheme": "vscode-icons",
+    "window.titleBarStyle": "custom",
+    "workbench.tree.indent": 25,
+    "workbench.view.alwaysShowHeaderActions": true,
+    "editor.trimAutoWhitespace": false,  
+    "editor.renderWhitespace": "all"
+}
+```
+## Developer
+
+Name: Simon Binyamin
+Email: simon.m.binyamin@gmail.com
