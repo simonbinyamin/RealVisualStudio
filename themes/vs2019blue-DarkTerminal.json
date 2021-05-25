@@ -25,12 +25,11 @@ SOFTWARE. */
 	"name": "Visual Studio 2019 Blue",
 	"type": "light",
 	"colors": {
-
-
         
 		 //Editor
 		 "editor.background":"#ffffff",
-     
+         "icon.foreground": "#ffffff",
+         
 		 //Scroll editor vertical
 		 "scrollbarSlider.background": "#c2c3c9",
  
