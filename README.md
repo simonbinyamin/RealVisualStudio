@@ -39,7 +39,9 @@ in your settings:
     "workbench.tree.indent": 25,
     "workbench.view.alwaysShowHeaderActions": true,
     "editor.trimAutoWhitespace": false,  
-    "editor.renderWhitespace": "all"
+    "editor.renderWhitespace": "all",
+    "workbench.editor.decorations.colors":false,
+	//"workbench.editor.decorations.badges": false
 }
 ```
 ## Developer
