@@ -3,7 +3,7 @@
     "displayName": "Real visual studio",
     "description": "visual studio 2019 blue",
     "publisher": "realvisualstudio19",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "engines": {
         "vscode": "^1.55.0"
     },
@@ -26,6 +26,16 @@
                 "label": "Real Visual Studio",
                 "uiTheme": "vs",
                 "path": "./themes/vs2019blue.json"
+            },
+            {
+                "label": "Real Visual Studio - Light Terminal",
+                "uiTheme": "vs",
+                "path": "./themes/vs2019blue-LightTerminal.json"
+            },
+            {
+                "label": "Real Visual Studio - Dark Terminal",
+                "uiTheme": "vs",
+                "path": "./themes/vs2019blue-DarkTerminal.json"
             }
         ]
     }
