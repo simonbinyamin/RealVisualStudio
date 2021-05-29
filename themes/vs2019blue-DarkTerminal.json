@@ -42,7 +42,7 @@ SOFTWARE. */
          "sideBarTitle.foreground": "#5d6b99",
 		 "sideBar.background": "#f7f9fe",
 		 "sideBar.border": "#5d6b99",
-		 "sideBarSectionHeader.background": "#40568dbe",
+		 "sideBarSectionHeader.background": "#40568d",
 		 "sideBarSectionHeader.foreground": "#ffffff",
 		 "sideBarSectionHeader.border": "#5d6b99",
 

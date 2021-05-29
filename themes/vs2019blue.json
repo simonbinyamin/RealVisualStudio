@@ -46,7 +46,7 @@ SOFTWARE. */
 		 "sideBarSectionHeader.foreground": "#ffffff",
 		 "sideBarSectionHeader.border": "#5d6b99",
          
-         //List of (sidebar, termianl etc)
+          //List of (sidebar, termianl etc)
          "list.activeSelectionForeground": "#000000c2",
 		 "list.activeSelectionBackground": "#00a2ff36",
 		 "list.hoverBackground": "#00a2ff2a",

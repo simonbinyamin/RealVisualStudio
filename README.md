@@ -41,7 +41,7 @@ in your settings:
     "editor.trimAutoWhitespace": false,  
     "editor.renderWhitespace": "all",
     "workbench.editor.decorations.colors":false,
-	//"workbench.editor.decorations.badges": false
+    //"workbench.editor.decorations.badges": false
 }
 ```
 ## Developer

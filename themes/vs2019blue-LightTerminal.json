@@ -25,7 +25,7 @@ SOFTWARE. */
 	"name": "Visual Studio 2019 Light Terminal",
 	"type": "light",
 	"colors": {
-        
+
 		 //Editor
 		 "editor.background":"#ffffff",
          "icon.foreground": "#ffffff",
@@ -42,11 +42,10 @@ SOFTWARE. */
 		 "sideBarTitle.foreground": "#5d6b99",
 		 "sideBar.background": "#f7f9fe",
 		 "sideBar.border": "#5d6b99",
-		 "sideBarSectionHeader.background": "#40568dbe",
+		 "sideBarSectionHeader.background": "#40568d",
 		 "sideBarSectionHeader.foreground": "#ffffff",
 		 "sideBarSectionHeader.border": "#5d6b99",
 
-         
          //List of (sidebar, termianl etc)
          "list.activeSelectionForeground": "#000000c2",
 		 "list.activeSelectionBackground": "#00a2ff36",
@@ -60,7 +59,7 @@ SOFTWARE. */
          "panelTitle.activeBorder": "#5d6b99",
          "panelTitle.activeForeground": "#5d6b99",
          "panel.border": "#5d6b99",
- 
+        
 		 //Tabs
 		 "tab.activeBackground": "#f5cc84",
 		 "tab.inactiveBackground": "#3b4f81",
@@ -79,10 +78,10 @@ SOFTWARE. */
 		 "titleBar.activeBackground": "#ccd5f0",
 		 "editorGroupHeader.tabsBackground": "#ccd5f0",
 	   
-        //Notification
-        "notificationCenterHeader.background": "#dddddd",
-        "notifications.background": "#dddddd",
-                  
+         //Notification
+         "notificationCenterHeader.background": "#dddddd",
+         "notifications.background": "#dddddd",
+                        
 		 //Footer
 		 "statusBar.background": "#40508d"
 	},
