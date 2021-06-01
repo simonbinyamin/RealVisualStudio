@@ -57,6 +57,7 @@ SOFTWARE. */
 		 "panel.background": "#40568d",
 		 "panelTitle.activeForeground": "#ffffff",
 		 "panel.border": "#5d6b99",
+		 "panelSectionHeader.foreground": "#ffffff",
 		 
 		 //Debug console
 		 "debugConsole.warningForeground": "#ffffff",
