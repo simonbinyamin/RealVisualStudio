@@ -26,6 +26,9 @@ SOFTWARE. */
 	"type": "light",
 	"colors": {
 
+		 //Main font color
+		 "foreground":"#5a153bd2",
+         
 		 //Editor
 		 "editor.background":"#ffffff",
 		 "icon.foreground": "#b58fce",
