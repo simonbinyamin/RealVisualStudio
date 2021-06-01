@@ -28,8 +28,8 @@ SOFTWARE. */
 
 		 //Editor
 		 "editor.background":"#ffffff",
-         "icon.foreground": "#ffffff",
-         
+		 "icon.foreground": "#b58fce",
+		 
 		 //Scroll editor vertical
 		 "scrollbarSlider.background": "#c2c3c9",
  
@@ -45,18 +45,24 @@ SOFTWARE. */
 		 "sideBarSectionHeader.background": "#40568d",
 		 "sideBarSectionHeader.foreground": "#ffffff",
 		 "sideBarSectionHeader.border": "#5d6b99",
-         
-          //List of (sidebar, termianl etc)
-         "list.activeSelectionForeground": "#000000c2",
+		 
+		 //List of (sidebar, termianl etc)
+		 "list.activeSelectionForeground": "#000000c2",
 		 "list.activeSelectionBackground": "#00a2ff36",
 		 "list.hoverBackground": "#00a2ff2a",
 		 "list.inactiveSelectionBackground": "#00a2ff1e",
-         
+		 
 		 //Terminal
 		 "terminal.background": "#e6e7e8",
 		 "panel.background": "#40568d",
 		 "panelTitle.activeForeground": "#ffffff",
 		 "panel.border": "#5d6b99",
+		 
+		 //Debug console
+		 "debugConsole.warningForeground": "#ffffff",
+		 "debugConsole.errorForeground": "#ff0000",
+		 "debugConsole.sourceForeground": "#ffffff",
+		 "debugConsole.infoForeground": "#bebedb",
  
 		 //Tabs
 		 "tab.activeBackground": "#f5cc84",
@@ -75,11 +81,11 @@ SOFTWARE. */
 		 //Menu
 		 "titleBar.activeBackground": "#ccd5f0",
 		 "editorGroupHeader.tabsBackground": "#ccd5f0",
-	   
-         //Notification
-         "notificationCenterHeader.background": "#dddddd",
-         "notifications.background": "#dddddd",
-         
+		 
+		 //Notification
+		 "notificationCenterHeader.background": "#dddddd",
+		 "notifications.background": "#dddddd",
+		 
 		 //Footer
 		 "statusBar.background": "#40508d"
 	},
