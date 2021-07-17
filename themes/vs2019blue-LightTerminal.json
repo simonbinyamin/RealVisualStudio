@@ -28,7 +28,6 @@ SOFTWARE. */
 
 		 //Editor
 		 "editor.background":"#ffffff",
-         "icon.foreground": "#ffffff",
          
 		 //Scroll editor vertical
 		 "scrollbarSlider.background": "#c2c3c9",
@@ -48,9 +47,9 @@ SOFTWARE. */
 
          //List of (sidebar, termianl etc)
          "list.activeSelectionForeground": "#000000c2",
-		 "list.activeSelectionBackground": "#00a2ff6c",
-		 "list.hoverBackground": "#00a2ff6c",
-		 "list.inactiveSelectionBackground": "#00a2ff6c",
+		 "list.activeSelectionBackground": "#00a2ff36",
+		 "list.hoverBackground": "#00a2ff2a",
+		 "list.inactiveSelectionBackground": "#00a2ff1e",
 	
 		 //Terminal
 		 // "terminal.background": "#e6e7e8",
