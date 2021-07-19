@@ -81,8 +81,10 @@ SOFTWARE. */
 		 "editorGroupHeader.tabsBackground": "#ccd5f0",
 	            
          //Notification
-         "notificationCenterHeader.background": "#dddddd",
-         "notifications.background": "#dddddd",
+         "notificationCenterHeader.background": "#40568d",
+         "notifications.background": "#40568d",
+         "notifications.foreground": "#ffffff",
+		 "notificationCenterHeader.foreground": "#ffffff",
          
 		 //Footer
 		 "statusBar.background": "#40508d"

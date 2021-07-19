@@ -31,7 +31,7 @@ SOFTWARE. */
          
 		 //Editor
 		 "editor.background":"#ffffff",
-		 "icon.foreground": "#a7a7a7",
+		 "icon.foreground": "#c0a7d1",
 		 
 		 //Scroll editor vertical
 		 "scrollbarSlider.background": "#c2c3c9",
@@ -87,8 +87,10 @@ SOFTWARE. */
 		 "editorGroupHeader.tabsBackground": "#ccd5f0",
 		 
 		 //Notification
-		 "notificationCenterHeader.background": "#dddddd",
-		 "notifications.background": "#dddddd",
+		 "notificationCenterHeader.background": "#40568d",
+		 "notifications.background": "#40568d",
+		 "notifications.foreground": "#ffffff",
+		 "notificationCenterHeader.foreground": "#ffffff",
 		 
 		 //Footer
 		 "statusBar.background": "#40508d"
