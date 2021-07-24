@@ -28,7 +28,7 @@ SOFTWARE. */
 
 		 //Editor
 		 "editor.background":"#ffffff",
-         "icon.foreground": "#39ce2b",
+         "icon.foreground": "#b3a2a2",
          
 		 //Scroll editor vertical
 		 "scrollbarSlider.background": "#c2c3c9",
