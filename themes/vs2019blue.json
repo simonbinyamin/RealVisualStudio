@@ -31,7 +31,7 @@ SOFTWARE. */
          
 		 //Editor
 		 "editor.background":"#ffffff",
-		 "icon.foreground": "#b3a2a2",
+		 "icon.foreground": "#b58fce",
 		 
 		 //Scroll editor vertical
 		 "scrollbarSlider.background": "#c2c3c9",
