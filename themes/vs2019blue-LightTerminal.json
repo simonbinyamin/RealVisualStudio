@@ -53,8 +53,11 @@ SOFTWARE. */
 		 "list.inactiveSelectionBackground": "#00a2ff1e",
 	
 		 //Terminal
-		 // "terminal.background": "#e6e7e8",
-		 "panel.background": "#f7f9fe",
+		 //visual studio 2022
+         //"panel.background": "#f7f9fe",
+         
+         //visual studio 2019
+         "panel.background": "#e6e7e8",
          "panelTitle.inactiveForeground": "#5d6b99",
          "panelTitle.activeBorder": "#5d6b99",
          "panelTitle.activeForeground": "#5d6b99",
