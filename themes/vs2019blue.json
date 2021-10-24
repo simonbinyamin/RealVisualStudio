@@ -31,7 +31,7 @@ SOFTWARE. */
          
 		 //Editor
 		 "editor.background":"#ffffff",
-		 "icon.foreground": "#b58fce",
+		 //"icon.foreground": "#b58fce",
 		 
 		 //Scroll editor vertical
 		 "scrollbarSlider.background": "#c2c3c9",
@@ -42,12 +42,9 @@ SOFTWARE. */
 		 "activityBar.border": "#bdc4d1",
  
 		 //Solution explorer
-		 "sideBarTitle.foreground": "#5d6b99",
 		 "sideBar.background": "#f7f9fe",
-		 "sideBar.border": "#5d6b99",
-		 "sideBarSectionHeader.background": "#40568d",
-		 "sideBarSectionHeader.foreground": "#ffffff",
-		 "sideBarSectionHeader.border": "#5d6b99",
+		 "sideBarSectionHeader.background": "#f7f9fe",
+		 "sideBarSectionHeader.border": "#e6e7e8",
 		 
 		 //List of (sidebar, termianl etc)
 		 "list.activeSelectionForeground": "#000000c2",
