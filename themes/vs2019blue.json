@@ -44,7 +44,9 @@ SOFTWARE. */
 		 //Solution explorer
 		 "sideBar.background": "#f7f9fe",
 		 "sideBarSectionHeader.background": "#f7f9fe",
-		 "sideBarSectionHeader.border": "#e6e7e8",
+
+         "sideBarSectionHeader.border": "#adb4bd",
+         "sideBar.border": "#adb4bd",
 		 
 		 //List of (sidebar, termianl etc)
 		 "list.activeSelectionForeground": "#000000c2",
