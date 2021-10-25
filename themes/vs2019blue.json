@@ -53,7 +53,7 @@ SOFTWARE. */
 		 "list.activeSelectionBackground": "#00a2ff36",
 		 "list.hoverBackground": "#00a2ff2a",
 		 "list.inactiveSelectionBackground": "#00a2ff1e",
-		 
+         
 		 //Terminal
 		 "terminal.background": "#e6e7e8",
 		 "panel.background": "#40568d",
@@ -93,6 +93,7 @@ SOFTWARE. */
 		 
 		 //Footer
 		 "statusBar.background": "#40508d"
+
 	},
 	"semanticHighlighting": true,
 
