@@ -26,6 +26,7 @@ SOFTWARE. */
 	"type": "light",
 	"colors": {
 
+        
 		 //Main font color
 		 "foreground":"#5a153bd2",
          
@@ -91,6 +92,9 @@ SOFTWARE. */
 		 "notifications.foreground": "#ffffff",
 		 "notificationCenterHeader.foreground": "#ffffff",
 		 
+         //git decorations
+         "gitDecoration.modifiedResourceForeground": "#e92412",
+         
 		 //Footer
 		 "statusBar.background": "#40508d"
 

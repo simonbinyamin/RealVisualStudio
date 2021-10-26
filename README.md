@@ -53,10 +53,6 @@ in your settings:
 }
 ```
 
-## Optional 2
-For better experience, drag the problems console to the right:
-
-![alt text](icons/problems.png)
  
 ## Developer
 
