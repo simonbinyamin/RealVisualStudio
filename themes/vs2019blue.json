@@ -93,7 +93,8 @@ SOFTWARE. */
 		 "notificationCenterHeader.foreground": "#ffffff",
 		 
          //git decorations
-         "gitDecoration.modifiedResourceForeground": "#e92412",
+         "gitDecoration.modifiedResourceForeground": "#ff4949",
+         "gitDecoration.untrackedResourceForeground": "#ff4949",
          
 		 //Footer
 		 "statusBar.background": "#40508d"
