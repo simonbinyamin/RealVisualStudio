@@ -1,10 +1,10 @@
-# Welcome to Real Visual Studio
+## Welcome to Real Visual Studio
 
-## Real Visual Studio screenshot
+### Real Visual Studio screenshot
 
 ![alt text](https://github.com/simonbinyamin/RealVisualStudio/raw/master/icons/visualstudio.png)
 
-## MIT License
+### MIT License
 
 ```
 Copyright (c) .NET Foundation and Contributors
@@ -29,9 +29,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## Download Real c# intellisense
+### Download Real c# intellisense
 
-Search in the market for 'Real c# intellisense' and choose the one from realvisualstudio
+Search in the market for 'Real C# intellisense' and choose the one from realvisualstudio
 
 or 
 
@@ -40,7 +40,7 @@ ext install RealVisualStudio.realautocomplete
 ```
 
 
-## Optional
+### Optional
 
 ```
 in your settings:
@@ -57,7 +57,7 @@ in your settings:
 ```
 
  
-## Developer
+### Developer
 
 Name: Simon Binyamin
 Email: simon.m.binyamin@gmail.com
