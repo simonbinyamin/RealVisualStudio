@@ -57,7 +57,7 @@ SOFTWARE. */
          
 		 //Terminal
 		 "terminal.background": "#e6e7e8",
-		 "panel.background": "#40568d",
+		 "panel.background": "#40568de8",
 		 "panelTitle.activeForeground": "#ffffff",
 		 "panel.border": "#5d6b99",
 		 "panelSectionHeader.foreground": "#ffffff",
@@ -93,8 +93,8 @@ SOFTWARE. */
 		 "notificationCenterHeader.foreground": "#ffffff",
 		 
          //git decorations
-         "gitDecoration.modifiedResourceForeground": "#ff3131",
-         "gitDecoration.untrackedResourceForeground": "#ff3131",
+         "gitDecoration.modifiedResourceForeground": "#9e9a9a",
+         "gitDecoration.untrackedResourceForeground": "#9e9a9a",
          
 		 //Footer
 		 "statusBar.background": "#40508d"
