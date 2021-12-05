@@ -30,7 +30,7 @@ SOFTWARE.
 
 ### 1. Download Real c# autocomplete
 
-Search in the market for 'Real C# intellisense' and choose the one from realvisualstudio
+Search in the market for 'Real C# autocomplete'
 
 or 
 
