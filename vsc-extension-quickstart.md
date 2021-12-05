@@ -28,21 +28,30 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## Optional
-Download "vscode-icons"
+### 1. Download Real c# autocomplete
+
+Search in the market for 'Real C# intellisense' and choose the one from realvisualstudio
+
+or 
+
 ```
-in your settings:
-{
-    "workbench.sideBar.location": "right",
-    "workbench.iconTheme": "vscode-icons",
-    "window.titleBarStyle": "custom",
-    "workbench.tree.indent": 25,
-    "workbench.view.alwaysShowHeaderActions": true,
-    "editor.trimAutoWhitespace": false,  
-    "editor.renderWhitespace": "all",
-    "workbench.editor.decorations.colors":false,
-    //"workbench.editor.decorations.badges": false
-}
+ext install RealVisualStudio.realautocomplete
+```
+
+### 2. Activate Real c# autocomplete
+
+```
+ctrl + Shift + P
+Search: real csharp
+Choose: real-csharp-autocomplete
+```
+
+
+### 3. Open settings.json
+
+```
+type:
+Install-RealVisualStudioSettings
 ```
 
 ## Developer

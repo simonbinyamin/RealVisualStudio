@@ -3,7 +3,7 @@
     "displayName": "Real visual studio",
     "description": "visual studio 2019 blue",
     "publisher": "realvisualstudio19",
-    "version": "1.2.7",
+    "version": "1.2.8",
     "engines": {
         "vscode": "^1.55.0"
     },
