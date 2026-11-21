@@ -59,5 +59,7 @@ Install-RealVisualStudioSettings
 ### Developer
 
 Name: Simon Binyamin
-Email: simon.m.binyamin@gmail.com
+Email: simon.m.binyamin@gmail.com 
+
+.
 
