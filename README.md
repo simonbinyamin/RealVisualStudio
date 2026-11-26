@@ -6,7 +6,10 @@
 
 ### Available themes
 
-Open the Color Theme picker (`Ctrl+Shift+P`, then **Preferences: Color Theme**) and select **Real Visual Studio 2017 Blue** for the Visual Studio 2017 Blue palette.
+Open the Color Theme picker (`Ctrl+Shift+P`, then **Preferences: Color Theme**) to choose a theme:
+
+- **Real Visual Studio 2019 Blue - Command Deck** for deep-blue chrome, a bright editor, and gold focus accents.
+- **Real Visual Studio 2017 Blue** for the Visual Studio 2017 Blue palette.
 
 ### MIT License
 
