@@ -31,6 +31,11 @@
                 "label": "Real Visual Studio - Light Terminal",
                 "uiTheme": "vs",
                 "path": "./themes/vs2019blue-LightTerminal.json"
+            },
+            {
+                "label": "Real Visual Studio 2017 Blue",
+                "uiTheme": "vs",
+                "path": "./themes/vs2017blue.json"
             }
         ]
     }

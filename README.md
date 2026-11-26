@@ -4,6 +4,10 @@
 
 ![alt text](https://github.com/simonbinyamin/RealVisualStudio/raw/master/icons/visualstudio.png)
 
+### Available themes
+
+Open the Color Theme picker (`Ctrl+Shift+P`, then **Preferences: Color Theme**) and select **Real Visual Studio 2017 Blue** for the Visual Studio 2017 Blue palette.
+
 ### MIT License
 
 ```
