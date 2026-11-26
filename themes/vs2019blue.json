@@ -27,15 +27,28 @@ SOFTWARE. */
 	"colors": {
 
         
+        "foreground": "#5a153bd2",
+		"focusBorder": "#f5cc84",
+		"editor.foreground": "#222222",
+		"editorLineNumber.foreground": "#808080",
+		"editorLineNumber.activeForeground": "#001080",
+		"editorCursor.foreground": "#0000ff",
+		"editor.selectionBackground": "#00a2ff36",
+		"editorIndentGuide.background": "#c2c3c9",
+		"editorGroupHeader.tabsBackground": "#40568d",
+		"editorGroup.border": "#5d6b99",
+		"scrollbarSlider.background": "#c2c3c9",
+        
+        
 		 //Main font color
-		 "foreground":"#5a153bd2",
+		 //"foreground":"#5a153bd2",
          
 		 //Editor
 		 "editor.background":"#ffffff",
 		 //"icon.foreground": "#b58fce",
 		 
 		 //Scroll editor vertical
-		 "scrollbarSlider.background": "#c2c3c9",
+		 //"scrollbarSlider.background": "#c2c3c9",
  
 		 //Git, docker bar
 		 "activityBar.foreground": "#000000",
@@ -57,7 +70,7 @@ SOFTWARE. */
          
 		 //Terminal
 		 "terminal.background": "#e6e7e8",
-		 "panel.background": "#40568de8",
+		 //"panel.background": "#40568de8",
 		 "panelTitle.activeForeground": "#ffffff",
 		 "panel.border": "#5d6b99",
 		 "panelSectionHeader.foreground": "#ffffff",
@@ -83,7 +96,7 @@ SOFTWARE. */
 	
 		 //Menu
 		 "titleBar.activeBackground": "#ccd5f0",
-		 "editorGroupHeader.tabsBackground": "#ccd5f0",
+		 //"editorGroupHeader.tabsBackground": "#ccd5f0",
 		 
 		 //Notification
 		 "notificationCenterHeader.background": "#40568d",
