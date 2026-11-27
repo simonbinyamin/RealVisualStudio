@@ -59,6 +59,8 @@ SOFTWARE. */
 		 "sideBar.background": "#f7f9fe",
 		 "sideBarSectionHeader.background": "#f7f9fe",
 
+        "sideBarTitle.background": "#40568d",
+           "sideBarTitle.foreground": "#ffffff",
          "sideBarSectionHeader.border": "#adb4bd",
          "sideBar.border": "#adb4bd",
 		 
