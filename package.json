@@ -23,22 +23,17 @@
     "contributes": {
         "themes": [
             {
-                "label": "Real Visual Studio",
+                "label": "Real Visual Studio - Sulaymaniyah Blue",
                 "uiTheme": "vs",
                 "path": "./themes/vs2019blue.json"
             },
             {
-                "label": "Real Visual Studio - Light Terminal",
+                "label": "Real Visual Studio - Erbil Terminal",
                 "uiTheme": "vs",
                 "path": "./themes/vs2019blue-LightTerminal.json"
             },
             {
-                "label": "Real Visual Studio 2019 Blue - Command Deck",
-                "uiTheme": "vs",
-                "path": "./themes/vs2019blue-CommandDeck.json"
-            },
-            {
-                "label": "Real Visual Studio 2017 Blue",
+                "label": "Real Visual Studio - Timeless Basra",
                 "uiTheme": "vs",
                 "path": "./themes/vs2017blue.json"
             }
