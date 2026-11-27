@@ -1,17 +1,16 @@
 {
-    "name": "visualstudioblue",
-    "displayName": "Real visual studio",
-    "description": "visual studio 2019 blue",
-    "publisher": "realvisualstudio19",
-    "version": "2.0.4",
+    "name": "visualstudioplus",
+    "displayName": "Real visual studio+",
+    "description": "visual studio themes",
+    "publisher": "realvisualstudio",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.55.0"
     },
     "icon": "icons/head.png",
     "author": {
         "name":"Simon Binyamin",
-        "email": "simon.m.binyamin@gmail.com",
-        "url": "https://www.onprodcs.com/"
+        "email": "simon.m.binyamin@gmail.com"
     },
     "repository": {
         "url": "https://github.com/simonbinyamin/RealVisualStudio.git",
@@ -25,17 +24,17 @@
             {
                 "label": "Real Visual Studio - Sulaymaniyah Blue",
                 "uiTheme": "vs",
-                "path": "./themes/vs2019blue.json"
+                "path": "./themes/vs-SulaymaniyahBlue.json"
             },
             {
                 "label": "Real Visual Studio - Erbil Terminal",
                 "uiTheme": "vs",
-                "path": "./themes/vs2019blue-LightTerminal.json"
+                "path": "./themes/vs-ErbilTerminal.json"
             },
             {
                 "label": "Real Visual Studio - Timeless Basra",
                 "uiTheme": "vs",
-                "path": "./themes/vs2017blue.json"
+                "path": "./themes/vs-TimelessBasra.json"
             }
         ]
     }
