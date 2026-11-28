@@ -71,7 +71,7 @@ SOFTWARE. */
 		 "list.inactiveSelectionBackground": "#00a2ff1e",
          
 		 //Terminal
-		 "terminal.background": "#e6e7e8",
+		 "terminal.background": "#ffffff",
 		 //"panel.background": "#40568de8",
 		 "panelTitle.activeForeground": "#ffffff",
 		 "panel.border": "#5d6b99",
