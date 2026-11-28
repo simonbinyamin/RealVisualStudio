@@ -45,7 +45,14 @@ SOFTWARE. */
          
 		 //Editor
 		 "editor.background":"#ffffff",
-		 "icon.foreground": "#b58fce",
+		 "icon.foreground": "#5d6b99",
+
+
+    "input.border": "#26365C",
+    "button.background": "#40568d",
+   
+
+
 		 
 		 //Scroll editor vertical
 		 //"scrollbarSlider.background": "#c2c3c9",
@@ -55,6 +62,7 @@ SOFTWARE. */
 		 "activityBar.background": "#e8e8ec",
 		 "activityBar.border": "#bdc4d1",
  
+  
 		 //Solution explorer
 		 "sideBar.background": "#f7f9fe",
 		 "sideBarSectionHeader.background": "#f7f9fe",
