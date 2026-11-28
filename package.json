@@ -22,6 +22,16 @@
     "contributes": {
         "themes": [
             {
+                "label": "Real Visual Studio Hit",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vs-Hit.json"
+            },
+            {
+                "label": "Real Visual Studio Ramadi",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vs-Ramadi.json"
+            },
+            {
                 "label": "Real Visual Studio - Sulaymaniyah Blue",
                 "uiTheme": "vs",
                 "path": "./themes/vs-SulaymaniyahBlue.json"
