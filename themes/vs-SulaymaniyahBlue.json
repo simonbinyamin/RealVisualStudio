@@ -45,7 +45,7 @@ SOFTWARE. */
          
 		 //Editor
 		 "editor.background":"#ffffff",
-		 "icon.foreground": "#5d6b99",
+		 "icon.foreground": "#000000",
 
 
     "input.border": "#26365C",
